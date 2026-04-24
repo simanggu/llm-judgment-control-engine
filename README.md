@@ -213,6 +213,8 @@ python examples/sdk_basic.py
 ---
 
 ````markdown
+Requires Python 3.10+.
+
 ## Try It Locally
 
 ```bash
@@ -230,12 +232,17 @@ http://127.0.0.1:7860
 
 ## Who Is This For?
 
-* developers building AI coding tools
-* teams running long-context LLM workflows
-* agent runtime developers
+* AI coding tool builders
+* long-context agent workflow teams
 * LLMOps / AI infrastructure teams
 * builders trying to reduce expensive model calls
 * teams tired of re-teaching project context every session
+
+---
+
+## Why now?
+
+As LLM workflows get longer and more autonomous, failure is less about bad answers and more about bad continuation decisions.
 
 ---
 
@@ -243,7 +250,6 @@ http://127.0.0.1:7860
 
 * hosted demo sandbox
 * agent-control mode
-* richer execution logs
 * judgment trace visualization
 * orchestration module integration
 
@@ -254,6 +260,8 @@ http://127.0.0.1:7860
 LLMs should not just generate.
 
 They should decide when to act.
+
+This project is an attempt to build that decision layer.
 
 ---
 
