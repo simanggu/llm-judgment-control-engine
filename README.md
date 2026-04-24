@@ -1,6 +1,6 @@
 # LLM Judgment Control Engine
 
-![demo](assets/demo-block.gif)
+![demo](assets/demo_block.gif)
 
 Stop LLMs from drifting, forgetting context, hallucinating, and wasting expensive model calls.
 
