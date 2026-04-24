@@ -93,3 +93,8 @@ result = engine.evaluate(
 print(result.action)      # commit / hold / block
 print(result.model)       # mini / standard / none
 print(result.risk_score)
+
+## Run Example
+
+```bash
+python examples/sdk_basic.py
