@@ -29,8 +29,6 @@ This project exists because of that.
 
 ## What This Engine Controls
 
-## What This Engine Controls
-
 | Failure Mode | What the Engine Does |
 |---|---|
 | Session reset | Carries core task slots across turns |
