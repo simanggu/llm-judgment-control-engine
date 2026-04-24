@@ -17,7 +17,7 @@ LLMs in long sessions:
 
 ## 🎬 Demo 0 — System Overview
 
-[Watch demo](assets/demo_overview.mp4)
+[Watch demo](assets/demo_overview.gif)
 
 → Runtime judgment layer before execution
 
@@ -25,7 +25,7 @@ LLMs in long sessions:
 
 ## 🎬 Demo 1 — Dangerous Change (Block)
 
-[Watch demo](assets/demo_block.mp4)
+[Watch demo](assets/demo_block.gif)
 
 → Prevents breaking API / destructive execution
 
@@ -33,7 +33,7 @@ LLMs in long sessions:
 
 ## 🎬 Demo 2 — Normal Execution (Commit)
 
-[Watch demo](assets/demo_commit.mp4)
+[Watch demo](assets/demo_commit.gif)
 
 → Safe task proceeds with lightweight model
 
@@ -41,7 +41,7 @@ LLMs in long sessions:
 
 ## 🎬 Demo 3 — Constraint-Aware Execution (Commit)
 
-[Watch demo](assets/demo_commit2.mp4)
+[Watch demo](assets/demo_commit2.gif)
 
 → Executes while preserving constraints and context
 
@@ -49,7 +49,7 @@ LLMs in long sessions:
 
 ## 🎬 Demo 4 — Context Drift (Hold)
 
-[Watch demo](assets/demo_hold.mp4)
+[Watch demo](assets/demo_hold.gif)
 
 → Pauses execution when context becomes unstable
 
