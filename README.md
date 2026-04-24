@@ -78,6 +78,8 @@ LLMs should not just generate.
 
 They should decide when to act.
 
+---
+
 ## SDK Usage
 
 ```python
@@ -93,8 +95,10 @@ result = engine.evaluate(
 print(result.action)      # commit / hold / block
 print(result.model)       # mini / standard / none
 print(result.risk_score)
+```
 
 ## Run Example
 
 ```bash
 python examples/sdk_basic.py
+```
