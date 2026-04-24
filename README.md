@@ -1,3 +1,5 @@
+A runtime decision layer for LLMs
+
 # LLM Judgment Control Engine
 
 ![demo](assets/demo_block.gif)
